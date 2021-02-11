@@ -1,8 +1,8 @@
 {
-  "name": "cssg-edu-team",
+  "name": "clairehhelms",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cssg-edu-team.github.io/",
+  "homepage": "http://clairehhelms.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
