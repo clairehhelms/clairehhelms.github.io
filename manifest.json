@@ -1,6 +1,6 @@
 {
-  "short_name": "CSSG Edu Team",
-  "name": "CSSG Education Team",
+  "short_name": "CHH",
+  "name": "Claire Helms's Website",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,6 +8,10 @@
       "type": "image/x-icon"
     },
     {
+      "src": "images/chh_jupiter.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },    {
       "src": "images/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
