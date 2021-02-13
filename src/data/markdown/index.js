@@ -1,1 +1,1 @@
-export { default as lesson_one } from "./lesson_one.js";
+export { default as homepage } from "./homepage.js";

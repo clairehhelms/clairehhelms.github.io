@@ -1,7 +1,8 @@
 /* feel free to go on google fonts and change this to another font! */
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Slabo+27px&display=swap");
 
 /* == UI COMPONENTS == */
+
 /* buttons */
 [type="button"],
 [type="submit"],
@@ -14,7 +15,7 @@ button,
   text-decoration: none;
   font-size: 1rem;
   /* if you change the font, don't forget to change it here too! */
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Poppins', sans-serif;
   padding: .6rem 1.2rem;
   vertical-align: middle;
   text-align: center;
@@ -30,7 +31,7 @@ button,
 [type="button"]:hover,
 [type="submit"]:hover,
 button:hover {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
 
 .buttons {
@@ -47,7 +48,7 @@ button:hover {
 
 html {
   box-sizing: border-box;
-  font-family: "Space Mono", monospace;
+  font-family: 'Slabo 27px', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.4;
@@ -65,22 +66,25 @@ div {
 /* body */
 
 
-body {
+body, code {
   box-sizing: border-box;
   min-height: 100%;
+  background-color:rgb(16, 10, 18);
+  color:rgb(255, 255, 255); 
+  font-family: 'Slabo 27px', serif;
 }
 
 /* Anchors */
 a {
-  border-bottom: 3px solid #beebaa44;
-  color: #5a7913;
+  border-bottom: 3px solid #cebbf8ac;
+  color: #e0cff1;
   font-weight: 800;
   font-size: 1rem;
   text-decoration: none;
 }
 
 a:hover {
-  background-color: #beebaa44;
+  background-color: #caecffd2;
 }
 
 /* paragraph */
@@ -89,9 +93,11 @@ h1,
 h2,
 h3,
 h4 {
-  color: #0a5822;
+  color: #fbe5fd;
   margin-top: 2rem;
   line-height: 1.2;
+  background-color: transparent;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1 {
@@ -136,17 +142,17 @@ h4 {
 
 .masthead {
   margin: 3rem 0;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid transparent;
 }
 
 .footer {
   clear: both;
   position: relative;
   height: 200px;
-  color: #eee;
+  color: rgb(32, 8, 44);
   height: 2.5rem;
   margin-top: 2rem;
   padding: 0.5rem 1rem;
   text-align: center;
-  background-color: #5a7913;
+  background-color: #fbe5fd;
 }

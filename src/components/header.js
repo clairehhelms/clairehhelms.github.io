@@ -6,7 +6,8 @@ const Header = () => (
     <div>
       <div>
         <Link to="/">
-          <h1 className="site-title">CSSG Education Team</h1>
+          <h1 className="site-title">WELCOME!</h1>
+          <img src="images/chh_jupiter.png" alt="claire's logo"></img>
         </Link>
       </div>
     </div>

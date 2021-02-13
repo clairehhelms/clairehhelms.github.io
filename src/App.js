@@ -1,6 +1,7 @@
 // import { Header, Footer } from "./components";
 import ReactMarkdown from "react-markdown";
-import { lesson_one } from "./data/markdown";
+import { homepage } from "./data/markdown";
+import Typist from 'react-typist';
 
 const App = () => {
   return (
@@ -8,7 +9,11 @@ const App = () => {
       {/* <Header /> */}
 
       <div id="content">
-        <ReactMarkdown source={lesson_one} />
+        <Typist> 
+          <span>
+          {homepage}
+          </span>
+          </Typist>
       </div>
 
       {/* <Footer /> */}
