@@ -1,0 +1,4 @@
+baseURL = 'http://clairehhelms.github.io/'
+languageCode = 'en-us'
+title = 'personal webbie'
+theme = 'terminal'
