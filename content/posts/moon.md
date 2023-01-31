@@ -28,5 +28,8 @@ We also took multiple exposures of each image, which we correlated to colors. Fo
 After stacking, I played with typical photograph attributes, like saturation, temperature, contrast, and exposure. I also rotated the image. My final image could perhaps still use some tampering, but I like the way I brought out the blues of the Moon's maria and kept the brighter highlighted areas of the craters. 
 
 ![Final colored moon](moon_colored.png)
+Caption: My first astrophotogrphy project! It's no wonder how the Moon inspires when seen in this way. The Moon lives in more than just grayscale; shades of blue, green, brown, and more are on full display on its textured surface. Fun fact: this image is actually composed of 27 smaller images! 
+
+-- 
 
 Ultimately, I am happy with what I've learned from capturing the Moon, and I can't wait to create more images!
