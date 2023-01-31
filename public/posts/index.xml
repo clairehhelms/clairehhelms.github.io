@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on personal webbie</title>
-    <link>http://clairehhelms.github.io/posts/</link>
+    <link>https://clairehhelms.github.io/posts/</link>
     <description>Recent content in Posts on personal webbie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 22:03:56 -0500</lastBuildDate><atom:link href="http://clairehhelms.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 22:03:56 -0500</lastBuildDate><atom:link href="https://clairehhelms.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://clairehhelms.github.io/posts/my-first-post/</link>
+      <link>https://clairehhelms.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 30 Jan 2023 22:03:56 -0500</pubDate>
       
-      <guid>http://clairehhelms.github.io/posts/my-first-post/</guid>
+      <guid>https://clairehhelms.github.io/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!</description>
       <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
