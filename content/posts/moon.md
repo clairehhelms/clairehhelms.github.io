@@ -27,7 +27,7 @@ We also took multiple exposures of each image, which we correlated to colors. Fo
 
 After stacking, I played with typical photograph attributes, like saturation, temperature, contrast, and exposure. I also rotated the image. My final image shows off the Moon's greens, browns, yellows, blues, and greys. I tried to enhance the saturation and contrast of the Moon's maria while keeping the bright areas of the Moon luminescent. At the end, I sent my image through a processor that sharpened it.
 
-![Final colored moon](/moon_colored.png)
+![Final colored moon](/moon.png)
 
 Caption: My first astrophotogrphy project! It's no wonder how the Moon inspires when seen in this way. The Moon lives in more than just grayscale; shades of blue, green, brown, and more are on full display on its textured surface. Fun fact: this image is actually composed of 27 smaller images! 
 
