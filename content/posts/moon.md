@@ -23,14 +23,20 @@ It is only natural, then, that the Moon is the first object I capture in my astr
 
 We also took multiple exposures of each image, which we correlated to colors. For red, we took an exposure in H-alpha; for green, in OIII; and for blue, U. By layering these three colored images atop each other, a more natural color image was created!
 
-![Red, green, and blue moons](moons_color.png)
+![Red, green, and blue moons](/moons_color.png)
 
-After stacking, I played with typical photograph attributes, like saturation, temperature, contrast, and exposure. I also rotated the image. My final image could perhaps still use some tampering, but I like the way I brought out the blues of the Moon's maria and kept the brighter highlighted areas of the craters. 
+After stacking, I played with typical photograph attributes, like saturation, temperature, contrast, and exposure. I also rotated the image. My final image shows off the Moon's greens, browns, yellows, blues, and greys. I tried to enhance the saturation and contrast of the Moon's maria while keeping the bright areas of the Moon luminescent. At the end, I sent my image through a processor that sharpened it.
 
-![Final colored moon](moon_colored.png)
+![Final colored moon](/moon_colored.png)
 
 Caption: My first astrophotogrphy project! It's no wonder how the Moon inspires when seen in this way. The Moon lives in more than just grayscale; shades of blue, green, brown, and more are on full display on its textured surface. Fun fact: this image is actually composed of 27 smaller images! 
 
 -- 
+
+The colors of the Moon are due to its minerology – blue tones reveal areas of mainly titanium (but also iron and oxygen); the yellow areas are composed of dark orange and yellow glassy deposits; brown areas were once seas filled with brown, iron-rich lava; and light gray/white areas encounter greater exposure to sunlight. Check out some of the Moon's most prominent features!
+
+![Moon with features labeled](/moon_labeled.png)
+
+
 
 Ultimately, I am happy with what I've learned from capturing the Moon, and I can't wait to create more images!
