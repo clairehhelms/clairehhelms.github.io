@@ -17,7 +17,7 @@ color = "" #color from the theme settings
 
 Earth's natural satellite, humans' perpetual muse, and mythology's anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references... I'm looking at you, Twilight). 
 
-Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye. I remember my first time viewing the Moon through a telescope and gazing in wonderment at its perfectly-defined craters lowlighted by shadows. I also remember recently showing my partner the same thing, and his reaction was even better than my own.
+Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye. I remember my first time viewing the Moon through a telescope and gazing in wonderment at its perfectly-defined craters lowlighted by shadows. I also realize after witnessing others' reactions this response is near-universal. 
 
 It is only natural, then, that the Moon is the first object I capture in my astrophotography class. To create my image, I used an observation made by Alex Shoaf on the PROMPT-6 optical telescope in Chile using Skynet Robotic Telescope Network's interface. Because the field of view on PROMPT-6 is smaller than the Moon itself, we observed the Moon in a 3x3 dithering pattern, creating a grid of 9 seperate images which we stitched together using Afterglow.
 
