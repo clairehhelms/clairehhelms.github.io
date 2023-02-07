@@ -33,8 +33,9 @@ When we process these raw images, we are able to account for the time delay obvi
 Past the methods of radio imaging, we wanted to determine whether the Moon's radio emission fluctuates similarly to its variance in visual brightness throughout its phasic cycle. To test this, as a group, we took four observations: two Lunar observations four days apart and two calibration source observations on the same days. The calibration sources allow us to more accurately determine the flux of emission between the two Lunar observations.
 
 Here is the table we used to calculate the energy flux and temperature of the Moon using Virgo A as our calibration source. We ultimately determined the radio fluctuation was too small to be due completely to the phases of the Moon (the reflected light from the Sun).
-![Virgo A](/virgo_radio.png)
+![Flux table](/flux_table.png)
 
 We can also measure the temperature of the Moon from our observations and compare our values to the pros! Our measurement of ~230 Kelvin aligns with not only the pros' measurements, but is closer to the actual value of temperature!
+![Moon temperature plot](/moon_temp.png)
 
 I can't wait to continue to view the Universe through a radio lense!

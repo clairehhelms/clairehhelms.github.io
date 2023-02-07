@@ -49,8 +49,9 @@ From left to right: the observation&amp;rsquo;s scan/mapping pattern, imaged Y c
 &lt;p&gt;&amp;ndash;&lt;/p&gt;
 &lt;p&gt;Past the methods of radio imaging, we wanted to determine whether the Moon&amp;rsquo;s radio emission fluctuates similarly to its variance in visual brightness throughout its phasic cycle. To test this, as a group, we took four observations: two Lunar observations four days apart and two calibration source observations on the same days. The calibration sources allow us to more accurately determine the flux of emission between the two Lunar observations.&lt;/p&gt;
 &lt;p&gt;Here is the table we used to calculate the energy flux and temperature of the Moon using Virgo A as our calibration source. We ultimately determined the radio fluctuation was too small to be due completely to the phases of the Moon (the reflected light from the Sun).
-&lt;img src=&#34;https://clairehhelms.github.io/virgo_radio.png&#34; alt=&#34;Virgo A&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We can also measure the temperature of the Moon from our observations and compare our values to the pros! Our measurement of ~230 Kelvin aligns with not only the pros&amp;rsquo; measurements, but is closer to the actual value of temperature!&lt;/p&gt;
+&lt;img src=&#34;https://clairehhelms.github.io/flux_table.png&#34; alt=&#34;Flux table&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We can also measure the temperature of the Moon from our observations and compare our values to the pros! Our measurement of ~230 Kelvin aligns with not only the pros&amp;rsquo; measurements, but is closer to the actual value of temperature!
+&lt;img src=&#34;https://clairehhelms.github.io/moon_temp.png&#34; alt=&#34;Moon temperature plot&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I can&amp;rsquo;t wait to continue to view the Universe through a radio lense!&lt;/p&gt;
 </content>
     </item>
