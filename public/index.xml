@@ -6,60 +6,11 @@
     <description>Recent content on clairehh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 22:03:56 -0500</lastBuildDate><atom:link href="https://clairehhelms.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>01: LUNA</title>
-      <link>https://clairehhelms.github.io/posts/moon/</link>
-      <pubDate>Mon, 30 Jan 2023 22:03:56 -0500</pubDate>
-      
-      <guid>https://clairehhelms.github.io/posts/moon/</guid>
-      <description>THE MOON Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).
-Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye.</description>
-      <content>&lt;h2 id=&#34;the-moon&#34;&gt;THE MOON&lt;/h2&gt;
-&lt;p&gt;Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).&lt;/p&gt;
-&lt;p&gt;Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye. I remember my first time viewing the Moon through a telescope and gazing in wonderment at its perfectly-defined craters lowlighted by shadows. I also realize after witnessing others&amp;rsquo; reactions this response is near-universal.&lt;/p&gt;
-&lt;p&gt;It is only natural, then, that the Moon is the first object I capture in my astrophotography class. To create my image, I used an observation made by Alex Shoaf on the PROMPT-6 optical telescope in Chile using Skynet Robotic Telescope Network&amp;rsquo;s interface. Because the field of view on PROMPT-6 is smaller than the Moon itself, we observed the Moon in a 3x3 dithering pattern, creating a grid of 9 seperate images which we stitched together using Afterglow.&lt;/p&gt;
-&lt;p&gt;We also took multiple exposures of each image, which we correlated to colors. For red, we took an exposure in H-alpha; for green, in OIII; and for blue, U. By layering these three colored images atop each other, a more natural color image was created!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moons_color.png&#34; alt=&#34;Red, green, and blue moons&#34;&gt;&lt;/p&gt;
-&lt;p&gt;After stacking, I played with typical photograph attributes, like saturation, temperature, contrast, and exposure. I also rotated the image. My final image shows off the Moon&amp;rsquo;s greens, browns, yellows, blues, and greys. I tried to enhance the saturation and contrast of the Moon&amp;rsquo;s maria while keeping the bright areas of the Moon luminescent. At the end, I sent my image through a processor that sharpened it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon.png&#34; alt=&#34;Final colored moon&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Caption: My first astrophotogrphy project! It&amp;rsquo;s no wonder how the Moon inspires when seen in this way. The Moon lives in more than just grayscale; shades of blue, green, brown, and more are on full display on its textured surface. Fun fact: this image is actually composed of 27 smaller images!&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;The colors of the Moon are due to its minerology – blue tones reveal areas of mainly titanium (but also iron and oxygen); the yellow areas are composed of dark orange and yellow glassy deposits; brown areas were once seas filled with brown, iron-rich lava; and light gray/white areas encounter greater exposure to sunlight. Check out some of the Moon&amp;rsquo;s most prominent features!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon_labeled.png&#34; alt=&#34;Moon with features labeled&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Ultimately, I am happy with what I&amp;rsquo;ve learned from capturing the Moon, and I can&amp;rsquo;t wait to create more images!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>02: LUNA... IN RADIO</title>
-      <link>https://clairehhelms.github.io/posts/moon-radio/</link>
-      <pubDate>Mon, 30 Jan 2023 22:03:56 -0500</pubDate>
-      
-      <guid>https://clairehhelms.github.io/posts/moon-radio/</guid>
-      <description>THE MOON IN RADIO Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds.</description>
-      <content>&lt;h2 id=&#34;the-moon-in-radio&#34;&gt;THE MOON IN RADIO&lt;/h2&gt;
-&lt;p&gt;Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds. Radio waves, however, can penetrate these obstacles because they have a longer wavelength than visual light! Radio observing is also very practical because it can be done in daylight and through clouds, unlike optical observing. Other benefits we will explore later include radio astronomy&amp;rsquo;s ability to detect polarization and emittance variance of objects in real time.&lt;/p&gt;
-&lt;p&gt;Because the radio telescopes we use have such a small field of view, we have to use an observing technique where the telescope effectively scans the sky in a zig-zag pattern, and the sky in-between the lines of the zig-zag (not directly observed) are infered using an advanced algorithm. When the data comes back, we can view it on the National Radio Astronomy Observatory&amp;rsquo;s website! Check out the data retrieved from a radio observation of Virgo A.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/radio_src.png&#34; alt=&#34;Radio source data&#34;&gt;&lt;/p&gt;
-&lt;p&gt;From left to right: the observation&amp;rsquo;s scan/mapping pattern, imaged Y channel, and imaged X channel.&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;When we process these raw images, we are able to account for the time delay obvious in the X and Y channel images, and we put together an image that looks like this!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/virgo_radio.png&#34; alt=&#34;Virgo A&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;Past the methods of radio imaging, we wanted to determine whether the Moon&amp;rsquo;s radio emission fluctuates similarly to its variance in visual brightness throughout its phasic cycle. To test this, as a group, we took four observations: two Lunar observations four days apart and two calibration source observations on the same days. The calibration sources allow us to more accurately determine the flux of emission between the two Lunar observations.&lt;/p&gt;
-&lt;p&gt;Here is the table we used to calculate the energy flux and temperature of the Moon using Virgo A as our calibration source. We ultimately determined the radio fluctuation was too small to be due completely to the phases of the Moon (the reflected light from the Sun).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/flux_table.png&#34; alt=&#34;Flux table&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We can also measure the temperature of the Moon from our observations and compare our values to the pros! Our measurement of ~230 Kelvin aligns with not only the pros&amp;rsquo; measurements, but is closer to the actual value of temperature!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon_temp.png&#34; alt=&#34;Moon temperature plot&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I can&amp;rsquo;t wait to continue to view the Universe through a radio lense!&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Wed, 15 Feb 2023 22:03:56 -0500</lastBuildDate><atom:link href="https://clairehhelms.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>03: PLANETARUM</title>
       <link>https://clairehhelms.github.io/posts/planets/</link>
-      <pubDate>Mon, 30 Jan 2023 22:03:56 -0500</pubDate>
+      <pubDate>Wed, 15 Feb 2023 22:03:56 -0500</pubDate>
       
       <guid>https://clairehhelms.github.io/posts/planets/</guid>
       <description>OUR PLANETS Gazing beyond our moon, one may notice we share our energy source (the Sun) with seven other planetary neighbors! When thinking of our solar system siblings, we may have fond memories of creating a planet diorama, or maybe we reminisce on the great Pluto debate.
@@ -88,6 +39,55 @@ My Neptune image on the left with a Neptune image from Voyager 2 on the right.&l
 Neptune and Triton on the left, Uranus and Oberon, Ariel, Umbriel, Titania, Miranda on the right.&lt;/p&gt;
 &lt;p&gt;&amp;ndash;&lt;/p&gt;
 &lt;p&gt;Rising to the challenge of creating colored images of the planets has been an exciting adventure, and I look forward to continuing to learn about the causes of color in our universe!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>02: LUNA... IN RADIO</title>
+      <link>https://clairehhelms.github.io/posts/moon-radio/</link>
+      <pubDate>Tue, 07 Feb 2023 22:03:56 -0500</pubDate>
+      
+      <guid>https://clairehhelms.github.io/posts/moon-radio/</guid>
+      <description>THE MOON IN RADIO Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds.</description>
+      <content>&lt;h2 id=&#34;the-moon-in-radio&#34;&gt;THE MOON IN RADIO&lt;/h2&gt;
+&lt;p&gt;Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds. Radio waves, however, can penetrate these obstacles because they have a longer wavelength than visual light! Radio observing is also very practical because it can be done in daylight and through clouds, unlike optical observing. Other benefits we will explore later include radio astronomy&amp;rsquo;s ability to detect polarization and emittance variance of objects in real time.&lt;/p&gt;
+&lt;p&gt;Because the radio telescopes we use have such a small field of view, we have to use an observing technique where the telescope effectively scans the sky in a zig-zag pattern, and the sky in-between the lines of the zig-zag (not directly observed) are infered using an advanced algorithm. When the data comes back, we can view it on the National Radio Astronomy Observatory&amp;rsquo;s website! Check out the data retrieved from a radio observation of Virgo A.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/radio_src.png&#34; alt=&#34;Radio source data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;From left to right: the observation&amp;rsquo;s scan/mapping pattern, imaged Y channel, and imaged X channel.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;p&gt;When we process these raw images, we are able to account for the time delay obvious in the X and Y channel images, and we put together an image that looks like this!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/virgo_radio.png&#34; alt=&#34;Virgo A&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;p&gt;Past the methods of radio imaging, we wanted to determine whether the Moon&amp;rsquo;s radio emission fluctuates similarly to its variance in visual brightness throughout its phasic cycle. To test this, as a group, we took four observations: two Lunar observations four days apart and two calibration source observations on the same days. The calibration sources allow us to more accurately determine the flux of emission between the two Lunar observations.&lt;/p&gt;
+&lt;p&gt;Here is the table we used to calculate the energy flux and temperature of the Moon using Virgo A as our calibration source. We ultimately determined the radio fluctuation was too small to be due completely to the phases of the Moon (the reflected light from the Sun).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/flux_table.png&#34; alt=&#34;Flux table&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We can also measure the temperature of the Moon from our observations and compare our values to the pros! Our measurement of ~230 Kelvin aligns with not only the pros&amp;rsquo; measurements, but is closer to the actual value of temperature!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon_temp.png&#34; alt=&#34;Moon temperature plot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I can&amp;rsquo;t wait to continue to view the Universe through a radio lense!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>01: LUNA</title>
+      <link>https://clairehhelms.github.io/posts/moon/</link>
+      <pubDate>Mon, 30 Jan 2023 22:03:56 -0500</pubDate>
+      
+      <guid>https://clairehhelms.github.io/posts/moon/</guid>
+      <description>THE MOON Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).
+Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye.</description>
+      <content>&lt;h2 id=&#34;the-moon&#34;&gt;THE MOON&lt;/h2&gt;
+&lt;p&gt;Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).&lt;/p&gt;
+&lt;p&gt;Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye. I remember my first time viewing the Moon through a telescope and gazing in wonderment at its perfectly-defined craters lowlighted by shadows. I also realize after witnessing others&amp;rsquo; reactions this response is near-universal.&lt;/p&gt;
+&lt;p&gt;It is only natural, then, that the Moon is the first object I capture in my astrophotography class. To create my image, I used an observation made by Alex Shoaf on the PROMPT-6 optical telescope in Chile using Skynet Robotic Telescope Network&amp;rsquo;s interface. Because the field of view on PROMPT-6 is smaller than the Moon itself, we observed the Moon in a 3x3 dithering pattern, creating a grid of 9 seperate images which we stitched together using Afterglow.&lt;/p&gt;
+&lt;p&gt;We also took multiple exposures of each image, which we correlated to colors. For red, we took an exposure in H-alpha; for green, in OIII; and for blue, U. By layering these three colored images atop each other, a more natural color image was created!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moons_color.png&#34; alt=&#34;Red, green, and blue moons&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After stacking, I played with typical photograph attributes, like saturation, temperature, contrast, and exposure. I also rotated the image. My final image shows off the Moon&amp;rsquo;s greens, browns, yellows, blues, and greys. I tried to enhance the saturation and contrast of the Moon&amp;rsquo;s maria while keeping the bright areas of the Moon luminescent. At the end, I sent my image through a processor that sharpened it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon.png&#34; alt=&#34;Final colored moon&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Caption: My first astrophotogrphy project! It&amp;rsquo;s no wonder how the Moon inspires when seen in this way. The Moon lives in more than just grayscale; shades of blue, green, brown, and more are on full display on its textured surface. Fun fact: this image is actually composed of 27 smaller images!&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;p&gt;The colors of the Moon are due to its minerology – blue tones reveal areas of mainly titanium (but also iron and oxygen); the yellow areas are composed of dark orange and yellow glassy deposits; brown areas were once seas filled with brown, iron-rich lava; and light gray/white areas encounter greater exposure to sunlight. Check out some of the Moon&amp;rsquo;s most prominent features!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon_labeled.png&#34; alt=&#34;Moon with features labeled&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ultimately, I am happy with what I&amp;rsquo;ve learned from capturing the Moon, and I can&amp;rsquo;t wait to create more images!&lt;/p&gt;
 </content>
     </item>
     

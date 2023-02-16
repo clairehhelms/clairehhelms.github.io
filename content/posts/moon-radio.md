@@ -1,13 +1,13 @@
 +++
 title = "02: LUNA... IN RADIO"
-date = "2023-01-30T22:03:56-05:00"
+date = "2023-02-07T22:03:56-05:00"
 author = "Claire Helms"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
 description = ""
-showFullContent = true
+showFullContent = false
 readingTime = false
 hideComments = true
 color = "" #color from the theme settings
