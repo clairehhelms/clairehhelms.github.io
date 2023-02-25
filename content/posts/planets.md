@@ -19,6 +19,12 @@ Gazing beyond our moon, one may notice we share our energy source (the Sun) with
 
 Yet, most of us do not have an accurate mental image of these planets, especially because we cannot see them well with our eyes or basic telescopes. At best, we can see tinted specks of light; however, each planet in our solar system has a complex atmosphere, which correlates to a distinct color. Closer (and larger) planets like Mars and Jupiter are easier to capture in color, but father and dimmer planets like Uranus and Neptune are a bit tricker. Keep reading as I explain how I captured each of these beauties!
 
+![Planets](/planets.png)
+
+Caption: These fuzzy balls may make you reminiscient of a planetary mobile – and you wouldn't be far off. From left to right, Mars, Jupiter, Uranus, and Neptune share the stage in true color. The special compositions of gases and minerals make each planet reflect a unique color, which I aimed to capture in these (albiet blurry) pictures of our planetary neighbors!
+
+--
+
 To create all of my images, I gathered the raw photos from a Mars observation made by myself, a Jupiter observation made by LillyAnn "Tiger" Nekervis, and Neptune and Uranus observations made by our instructor, Daniel Reichart. For each planet's image set, I used Afterglow to adjust the planet's position in the images to be consistent across all images – this helps with aligning and stacking to create our red, green, and blue colored layers!
 
 For Mars and Jupiter, I adjusted the colors by eye. Although the resolution is far from the professional images created by astrophotographers, my main goal was to find a color balance that matched the pros' images! Below are a side-by-sides of professional images and my own!
@@ -47,7 +53,7 @@ My Uranus image on the left with a Uranus image from Voyager 2 on the right.
 My Neptune image on the left with a Neptune image from Voyager 2 on the right.
 
 Similarly to Jupiter, Uranus and Neptune also have moons!
-![Uranus and Neptune moons](/u_n_moons.png)
+![Uranus and Neptune moons](/uranus_neptune_moons.png)
 Neptune and Triton on the left, Uranus and Oberon, Ariel, Umbriel, Titania, Miranda on the right.
 
 --
