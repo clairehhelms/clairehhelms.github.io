@@ -25,7 +25,7 @@ Caption: These fuzzy balls may make you reminiscient of a planetary mobile – 
 
 --
 
-To create all of my images, I gathered the raw photos from a Mars observation made by myself, a Jupiter observation made by LillyAnn "Tiger" Nekervis, and Neptune and Uranus observations made by our instructor, Daniel Reichart. For each planet's image set, I used Afterglow to adjust the planet's position in the images to be consistent across all images – this helps with aligning and stacking to create our red, green, and blue colored layers!
+To create all of my images, I gathered the raw photos from a Mars observation made by myself, a Jupiter observation made by Tiger Nekervis, and Neptune and Uranus observations made by our instructor, Daniel Reichart. For each planet's image set, I used Afterglow to adjust the planet's position in the images to be consistent across all images – this helps with aligning and stacking to create our red, green, and blue colored layers!
 
 For Mars and Jupiter, I adjusted the colors by eye. Although the resolution is far from the professional images created by astrophotographers, my main goal was to find a color balance that matched the pros' images! Below are a side-by-sides of professional images and my own!
 
