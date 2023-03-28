@@ -27,7 +27,7 @@ Caption: These fuzzy balls may make you reminiscient of a planetary mobile – 
 
 To create all of my images, I gathered the raw photos from a Mars observation made by myself, a Jupiter observation made by Tiger Nekervis, and Neptune and Uranus observations made by our instructor, Daniel Reichart. For each planet's image set, I used Afterglow to adjust the planet's position in the images to be consistent across all images – this helps with aligning and stacking to create our red, green, and blue colored layers!
 
-For Mars and Jupiter, I adjusted the colors by eye. Although the resolution is far from the professional images created by astrophotographers, my main goal was to find a color balance that matched the pros' images! Below are a side-by-sides of professional images and my own!
+Because Mars and Jupiter are quite bright, to capture them, we want to use lower-throughput filters than red, green, and blue. Tiger and I took 10 exposures each using U, Halpha, and OIII filters, and when stacking the exposures to create images, I assigned U to blue, Halpha to red, and OIII to green. For each of these planets, I also adjusted the colors by eye. Although the resolution is far from the professional images created by astrophotographers, my main goal was to find a color balance that matched the pros' images! Below are a side-by-sides of professional images and my own!
 
 ![Mars](/mars.png)
 My Mars image on the left with a Mars image from OSIRIS on the right.
@@ -44,7 +44,9 @@ Notice how Io is yellower than the other moons – this is due to the large amo
 
 --
 
-For Neptune and Uranus, we are able to capture the "natural" color of the planets and their moons by using their surroundings! Essentially, by matching our images' background stars with catalogued stars, we are able to calibrate our images' colors with the recorded "natural" colors of the stars, revelaing the color of the planets as a byproduct. Again, these images are fairly low-resolution, but they match the coloration taken by professionals!
+For Neptune and Uranus, we are able to capture the "natural" color of the planets and their moons by using their surroundings! To observe Neptune, 10 exposures of B, V, and R were taken, and for Uranus, 30 exposures of the same filters were taken. Essentially, by matching our images' background stars with catalogued stars, we are able to calibrate our images' colors with the recorded "natural" colors of the stars, revelaing the color of the planets as a byproduct. While Uranus and Neptune are both shades of blue because of the methane in their atmospheres, Uranus dons a paler, greener shade to Neptune's deeper, truer blue hue. Scientists attribute this difference to the thicker haze that exists on Uranus, which lightens its color. Without the planets' hazes, Neptune and Uranus would appear nearly equally blue [(NASA)](https://solarsystem.nasa.gov/news/2232/why-uranus-and-neptune-are-different-colors/)!
+
+Again, these images are fairly low-resolution, but check out how they compare to photos taken by professionals!
 
 ![Uranus](/uranus.png)
 My Uranus image on the left with a Uranus image from Voyager 2 on the right.
