@@ -13,37 +13,8 @@
       <pubDate>Wed, 15 Feb 2023 22:03:56 -0500</pubDate>
       
       <guid>https://clairehhelms.github.io/posts/planets/</guid>
-      <description>OUR PLANETS Gazing beyond our moon, one may notice we share our energy source (the Sun) with seven other planetary neighbors! When thinking of our solar system siblings, we may have fond memories of creating a planet diorama, or maybe we reminisce on the great Pluto debate.
-Yet, most of us do not have an accurate mental image of these planets, especially because we cannot see them well with our eyes or basic telescopes.</description>
-      <content>&lt;h2 id=&#34;our-planets&#34;&gt;OUR PLANETS&lt;/h2&gt;
-&lt;p&gt;Gazing beyond our moon, one may notice we share our energy source (the Sun) with seven other planetary neighbors! When thinking of our solar system siblings, we may have fond memories of creating a &lt;a href=&#34;https://www.wikihow.com/Make-a-Solar-System-Model&#34;&gt;planet diorama&lt;/a&gt;, or maybe we reminisce on the &lt;a href=&#34;https://www.nytimes.com/2022/01/20/learning/do-you-think-pluto-should-be-a-planet.html&#34;&gt;great Pluto debate&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Yet, most of us do not have an accurate mental image of these planets, especially because we cannot see them well with our eyes or basic telescopes. At best, we can see tinted specks of light; however, each planet in our solar system has a complex atmosphere, which correlates to a distinct color. Closer (and larger) planets like Mars and Jupiter are easier to capture in color, but father and dimmer planets like Uranus and Neptune are a bit tricker. Keep reading as I explain how I captured each of these beauties!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/planets.png&#34; alt=&#34;Planets&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Caption: These fuzzy balls may make you reminiscient of a planetary mobile – and you wouldn&amp;rsquo;t be far off. From left to right, Mars, Jupiter, Uranus, and Neptune share the stage in true color. The special compositions of gases and minerals make each planet reflect a unique color, which I aimed to capture in these (albiet blurry) pictures of our planetary neighbors!&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;To create all of my images, I gathered the raw photos from a Mars observation made by myself, a Jupiter observation made by Tiger Nekervis, and Neptune and Uranus observations made by our instructor, Daniel Reichart. For each planet&amp;rsquo;s image set, I used Afterglow to adjust the planet&amp;rsquo;s position in the images to be consistent across all images – this helps with aligning and stacking to create our red, green, and blue colored layers!&lt;/p&gt;
-&lt;p&gt;Because Mars and Jupiter are quite bright, to capture them, we want to use lower-throughput filters than red, green, and blue. Tiger and I took 10 exposures each using U, Halpha, and OIII filters, and when stacking the exposures to create images, I assigned U to blue, Halpha to red, and OIII to green. For each of these planets, I also adjusted the colors by eye. Although the resolution is far from the professional images created by astrophotographers, my main goal was to find a color balance that matched the pros&amp;rsquo; images! Below are a side-by-sides of professional images and my own!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/mars.png&#34; alt=&#34;Mars&#34;&gt;
-My Mars image on the left with a Mars image from OSIRIS on the right.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/jupiter.png&#34; alt=&#34;Jupiter&#34;&gt;
-My Jupiter image on the left with a Jupiter image from Casini on the right.&lt;/p&gt;
-&lt;p&gt;I wanted to bring out Mars&amp;rsquo;s red-orange surface created by the large amounts of iron oxide (rust) in its soil, but I also wanted to keep the whites of Mars&amp;rsquo;s permanent ice caps. With Jupiter, I aimed to bring out the saturation of its many bands, which result from the many different chemicals that compose Jupiter and the different velocities of gases and winds in said bands.&lt;/p&gt;
-&lt;p&gt;Another exciting feature of Jupiter are its four bright moons! Because the brightness of the moons is much smaller than the brightness of Jupiter, we have to adjust the brightness of our image to view the moons, eliminating any detail on Jupiter:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/jupiter_moons.png&#34; alt=&#34;Jupiter&amp;amp;rsquo;s moons&#34;&gt;
-Notice how Io is yellower than the other moons – this is due to the large amounts of sulfur across Io&amp;rsquo;s surface!&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;For Neptune and Uranus, we are able to capture the &amp;ldquo;natural&amp;rdquo; color of the planets and their moons by using their surroundings! To observe Neptune, 10 exposures of B, V, and R were taken, and for Uranus, 30 exposures of the same filters were taken. Essentially, by matching our images&amp;rsquo; background stars with catalogued stars, we are able to calibrate our images&amp;rsquo; colors with the recorded &amp;ldquo;natural&amp;rdquo; colors of the stars, revelaing the color of the planets as a byproduct. While Uranus and Neptune are both shades of blue because of the methane in their atmospheres, Uranus dons a paler, greener shade to Neptune&amp;rsquo;s deeper, truer blue hue. Scientists attribute this difference to the thicker haze that exists on Uranus, which lightens its color. Without the planets&amp;rsquo; hazes, Neptune and Uranus would appear nearly equally blue &lt;a href=&#34;https://solarsystem.nasa.gov/news/2232/why-uranus-and-neptune-are-different-colors/&#34;&gt;(NASA)&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;Again, these images are fairly low-resolution, but check out how they compare to photos taken by professionals!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/uranus.png&#34; alt=&#34;Uranus&#34;&gt;
-My Uranus image on the left with a Uranus image from Voyager 2 on the right.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/neptune.png&#34; alt=&#34;Neptune&#34;&gt;
-My Neptune image on the left with a Neptune image from Voyager 2 on the right.&lt;/p&gt;
-&lt;p&gt;Similarly to Jupiter, Uranus and Neptune also have moons!
-&lt;img src=&#34;https://clairehhelms.github.io/uranus_neptune_moons.png&#34; alt=&#34;Uranus and Neptune moons&#34;&gt;
-Neptune and Triton on the left, Uranus and Oberon, Ariel, Umbriel, Titania, Miranda on the right.&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;Rising to the challenge of creating colored images of the planets has been an exciting adventure, and I look forward to continuing to learn about the causes of color in our universe!&lt;/p&gt;
-</content>
+      <description>OUR PLANETS Gazing beyond our moon, one may notice we share our energy source with seven other planetary neighbors! Contemplating our solar system siblings may remind us of creating a planet diorama, or perhaps we reminisce on the great Pluto debate.
+Most of us, though, do not have an accurate mental image of these planets, especially because we cannot see them well with our eyes or basic telescopes. At best, we observe tinted specks of light; however, each planet in our solar system has a complex atmosphere correlating to a distinct color.</description>
     </item>
     
     <item>
@@ -53,22 +24,6 @@ Neptune and Triton on the left, Uranus and Oberon, Ariel, Umbriel, Titania, Mira
       
       <guid>https://clairehhelms.github.io/posts/moon-radio/</guid>
       <description>THE MOON IN RADIO Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds.</description>
-      <content>&lt;h2 id=&#34;the-moon-in-radio&#34;&gt;THE MOON IN RADIO&lt;/h2&gt;
-&lt;p&gt;Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds. Radio waves, however, can penetrate these obstacles because they have a longer wavelength than visual light! Radio observing is also very practical because it can be done in daylight and through clouds, unlike optical observing. Other benefits we will explore later include radio astronomy&amp;rsquo;s ability to detect polarization and emittance variance of objects in real time.&lt;/p&gt;
-&lt;p&gt;Because the radio telescopes we use have such a small field of view, we have to use an observing technique where the telescope effectively scans the sky in a zig-zag pattern, and the sky in-between the lines of the zig-zag (not directly observed) are infered using an advanced algorithm. We used the 20-meter radio telescope at Green Bank Observatory in West Virginia. We pick our frequency range (1355-1435 MHz), being careful to pick a range that omits human-made frequencies, and specify a sum of the channel inputs. When the data comes back, we can view it on the National Radio Astronomy Observatory&amp;rsquo;s website! Check out the data retrieved from a radio observation of Virgo A.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/radio_src.png&#34; alt=&#34;Radio source data&#34;&gt;&lt;/p&gt;
-&lt;p&gt;From left to right: the observation&amp;rsquo;s scan/mapping pattern, imaged Y channel, and imaged X channel.&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;When we process these raw images, we are able to account for the time delay obvious in the X and Y channel images, and we put together an image that looks like this!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/virgo_radio.png&#34; alt=&#34;Virgo A&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;Past the methods of radio imaging, we wanted to determine whether the Moon&amp;rsquo;s radio emission fluctuates similarly to its variance in visual brightness throughout its phasic cycle. To test this, as a group, we took four observations: two Lunar observations four days apart and two calibration source observations on the same days. The calibration sources allow us to more accurately determine the flux of emission between the two Lunar observations.&lt;/p&gt;
-&lt;p&gt;Here is the table we used to calculate the energy flux and temperature of the Moon using Virgo A as our calibration source. We ultimately determined the radio fluctuation was too small to be due completely to the phases of the Moon (the reflected light from the Sun).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/flux_table.png&#34; alt=&#34;Flux table&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We can also measure the temperature of the Moon from our observations and compare our values to the pros! Our measurement of ~230 Kelvin aligns with not only the pros&amp;rsquo; measurements, but is closer to the actual value of temperature!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon_temp.png&#34; alt=&#34;Moon temperature plot&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I can&amp;rsquo;t wait to continue to view the Universe through a radio lense!&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -79,20 +34,6 @@ Neptune and Triton on the left, Uranus and Oberon, Ariel, Umbriel, Titania, Mira
       <guid>https://clairehhelms.github.io/posts/moon/</guid>
       <description>THE MOON Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).
 Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye.</description>
-      <content>&lt;h2 id=&#34;the-moon&#34;&gt;THE MOON&lt;/h2&gt;
-&lt;p&gt;Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).&lt;/p&gt;
-&lt;p&gt;Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye. I remember my first time viewing the Moon through a telescope and gazing in wonderment at its perfectly-defined craters lowlighted by shadows. I also realize after witnessing others&amp;rsquo; reactions this response is near-universal.&lt;/p&gt;
-&lt;p&gt;It is only natural, then, that the Moon is the first object I capture in my astrophotography class. To create my image, I used an observation made by Alex Shoaf on the PROMPT-6 optical telescope in Chile using Skynet Robotic Telescope Network&amp;rsquo;s interface. Because the field of view on PROMPT-6 is smaller than the Moon itself, we observed the Moon in a 3x3 dithering pattern, creating a grid of 9 seperate images which we stitched together using Afterglow.&lt;/p&gt;
-&lt;p&gt;We also took multiple exposures of each image, which we correlated to colors. For red, we took an exposure in H-alpha; for green, in OIII; and for blue, U. By layering these three colored images atop each other, a more natural color image was created!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moons_color.png&#34; alt=&#34;Red, green, and blue moons&#34;&gt;&lt;/p&gt;
-&lt;p&gt;After stacking, I played with typical photograph attributes, like saturation, temperature, contrast, and exposure. I also rotated the image. My final image shows off the Moon&amp;rsquo;s greens, browns, yellows, blues, and greys. I tried to enhance the saturation and contrast of the Moon&amp;rsquo;s maria while keeping the bright areas of the Moon luminescent. At the end, I sent my image through a processor that sharpened it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon.png&#34; alt=&#34;Final colored moon&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Caption: My first astrophotogrphy project! It&amp;rsquo;s no wonder how the Moon inspires when seen in this way. The Moon lives in more than just grayscale; shades of blue, green, brown, and more are on full display on its textured surface. Fun fact: this image is actually composed of 27 smaller images!&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;p&gt;The colors of the Moon are due to its minerology – blue tones reveal areas of mainly titanium (but also iron and oxygen); the yellow areas are composed of dark orange and yellow glassy deposits; brown areas were once seas filled with brown, iron-rich lava; and light gray/white areas encounter greater exposure to sunlight. Check out some of the Moon&amp;rsquo;s most prominent features!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://clairehhelms.github.io/moon_labeled.png&#34; alt=&#34;Moon with features labeled&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Ultimately, I am happy with what I&amp;rsquo;ve learned from capturing the Moon, and I can&amp;rsquo;t wait to create more images!&lt;/p&gt;
-</content>
     </item>
     
   </channel>
