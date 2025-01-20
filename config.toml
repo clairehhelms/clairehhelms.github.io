@@ -2,7 +2,6 @@ baseURL = 'https://clairehhelms.github.io/'
 languageCode = 'en-us'
 title = 'personal webbie'
 theme = 'terminal'
-paginate = 5
 
 [params]
   # dir name of your main content (default is `content/posts`).
