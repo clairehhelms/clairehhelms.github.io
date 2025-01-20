@@ -1,3 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>clairehh</title><link>https://clairehhelms.github.io/</link><description>Recent content on clairehh</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Feb 2023 22:03:56 -0500</lastBuildDate><atom:link href="https://clairehhelms.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>03: PLANETARUM</title><link>https://clairehhelms.github.io/posts/planets/</link><pubDate>Wed, 15 Feb 2023 22:03:56 -0500</pubDate><guid>https://clairehhelms.github.io/posts/planets/</guid><description>OUR PLANETS Gazing beyond our moon, one may notice we share our energy source with seven other planetary neighbors! Contemplating our solar system siblings may remind us of creating a planet diorama, or perhaps we reminisce on the great Pluto debate.
-Most of us, though, do not have an accurate mental image of these planets, especially because we cannot see them well with our eyes or basic telescopes. At best, we observe tinted specks of light; however, each planet in our solar system has a complex atmosphere correlating to a distinct color.</description></item><item><title>02: LUNA... IN RADIO</title><link>https://clairehhelms.github.io/posts/moon-radio/</link><pubDate>Tue, 07 Feb 2023 22:03:56 -0500</pubDate><guid>https://clairehhelms.github.io/posts/moon-radio/</guid><description>THE MOON IN RADIO Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds.</description></item><item><title>01: LUNA</title><link>https://clairehhelms.github.io/posts/moon/</link><pubDate>Mon, 30 Jan 2023 22:03:56 -0500</pubDate><guid>https://clairehhelms.github.io/posts/moon/</guid><description>THE MOON Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).
-Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clairehh</title>
+    <link>https://clairehhelms.github.io/</link>
+    <description>Recent content on clairehh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Feb 2023 22:03:56 -0500</lastBuildDate>
+    <atom:link href="https://clairehhelms.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>03: PLANETARUM</title>
+      <link>https://clairehhelms.github.io/posts/planets/</link>
+      <pubDate>Wed, 15 Feb 2023 22:03:56 -0500</pubDate>
+      <guid>https://clairehhelms.github.io/posts/planets/</guid>
+      <description>&lt;h2 id=&#34;our-planets&#34;&gt;OUR PLANETS&lt;/h2&gt;&#xA;&lt;p&gt;Gazing beyond our moon, one may notice we share our energy source with seven other planetary neighbors! Contemplating our solar system siblings may remind us of creating a &lt;a href=&#34;https://www.wikihow.com/Make-a-Solar-System-Model&#34;&gt;planet diorama&lt;/a&gt;, or perhaps we reminisce on the &lt;a href=&#34;https://www.nytimes.com/2022/01/20/learning/do-you-think-pluto-should-be-a-planet.html&#34;&gt;great Pluto debate&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Most of us, though, do not have an accurate mental image of these planets, especially because we cannot see them well with our eyes or basic telescopes. At best, we observe tinted specks of light; however, each planet in our solar system has a complex atmosphere correlating to a distinct color. Closer (and larger) planets like Mars and Jupiter are easier to capture in color, but farther, dimmer planets like Uranus and Neptune are a bit tricker. Keep reading as I explain how I captured each of these beauties!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02: LUNA... IN RADIO</title>
+      <link>https://clairehhelms.github.io/posts/moon-radio/</link>
+      <pubDate>Tue, 07 Feb 2023 22:03:56 -0500</pubDate>
+      <guid>https://clairehhelms.github.io/posts/moon-radio/</guid>
+      <description>&lt;h2 id=&#34;the-moon-in-radio&#34;&gt;THE MOON IN RADIO&lt;/h2&gt;&#xA;&lt;p&gt;Taking optical images of the night&amp;rsquo;s sky is one task; capturing celestial objects in other wavelengths is another beast. You may not realize imaging sky in radio is even possible – but not only is it possible, it&amp;rsquo;s very useful! &amp;ldquo;Seeing&amp;rdquo; the sky in radio allows astronomers to discover objects not visible to the human eye or optical telescopes. Some distant objects, for example, are impossible or difficult to see in the visible light spectrum because of visual obstructions like dust and gas clouds. Radio waves, however, can penetrate these obstacles because they have a longer wavelength than visual light! Radio observing is also very practical because it can be done in daylight and through clouds, unlike optical observing. Other benefits we will explore later include radio astronomy&amp;rsquo;s ability to detect polarization and emittance variance of objects in real time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>01: LUNA</title>
+      <link>https://clairehhelms.github.io/posts/moon/</link>
+      <pubDate>Mon, 30 Jan 2023 22:03:56 -0500</pubDate>
+      <guid>https://clairehhelms.github.io/posts/moon/</guid>
+      <description>&lt;h2 id=&#34;the-moon&#34;&gt;THE MOON&lt;/h2&gt;&#xA;&lt;p&gt;Earth&amp;rsquo;s natural satellite, humans&amp;rsquo; perpetual muse, and mythology&amp;rsquo;s anti-sun. The Moon is responsible for a natural rhythm that shapes the tides, the circalunar clocks of nature, and the consistency of seasons. On the more romantic side, the Moon is well-known for its presence in songs, poems, paintings, and other musings (not to mention the pop culture references&amp;hellip; I&amp;rsquo;m looking at you, Twilight).&lt;/p&gt;&#xA;&lt;p&gt;Still, however familiar we feel with the Moon, most of us have never inspected it more closely than with the naked eye. I remember my first time viewing the Moon through a telescope and gazing in wonderment at its perfectly-defined craters lowlighted by shadows. I also realize after witnessing others&amp;rsquo; reactions this response is near-universal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
